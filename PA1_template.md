@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # REPRODUCIBLE RESEARCH:  PROJECT 1
 
 ## Loading and preprocessing the data
